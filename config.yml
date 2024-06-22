@@ -19,7 +19,7 @@ respawn-settings:
 # Dead body settings
 corpse-settings:
   npc-spawn: true
-  npc-remove-delay-seconds: 5
+  npc-remove-delay-seconds: 5 # require restart
 
 # Show coordinate
 coordinate-messages:
