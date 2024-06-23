@@ -1,9 +1,14 @@
 # Global settings
 settings:
   prefix: "&7[&c☠&7] "
-  blood-effect: true
   fly-on-spectator: true
   show-coordinate: false
+
+# Blood Effect settings
+blood-effect:
+  enable: true
+  player: true
+  mob: true
 
 # Respawn settings
 respawn-settings:
@@ -19,7 +24,8 @@ respawn-settings:
 # Dead body settings
 corpse-settings:
   npc-spawn: true
-  npc-remove-delay-seconds: 5 # require restart
+  # require restart
+  npc-remove-delay-seconds: 5
 
 # Show coordinate
 coordinate-messages:
