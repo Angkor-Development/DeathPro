@@ -14,6 +14,8 @@ respawn-settings:
   respawn-title: "&c&lYOU DIED!"
   # %respawncountdown% = respawn delay countdown number
   respawn-subtitle: "&fRespawnning in &e%respawncountdown%"
+  respawned-title: "&c&lRESPAWNED!"
+  respawned-subtitle: "&eGood luck!"
   respawn-spectator: true
   respawn-delay-seconds: 5
   # respawn by command
